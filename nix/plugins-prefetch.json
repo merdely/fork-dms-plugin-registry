@@ -78,6 +78,44 @@
     "sha256": "1v4mnwilj8a0wvff06ifzlvwbifs17266mi5zhf4rpjs385h1mjq",
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
+  "aiOverviewControl": {
+    "date": "2026-05-08T01:42:51-03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-e9nm1QLcAPEFhqGwLLNIG5nyphjA4GSZbSZKCWh+MHI=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Bernardo Gomes",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "monitoring",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "bash",
+        "jq",
+        "curl"
+      ],
+      "description": "Monitor AI subscription and API usage for Claude, Copilot, Codex, Gemini, and OpenRouter from DankBar",
+      "distro": [
+        "any"
+      ],
+      "id": "aiOverviewControl",
+      "name": "AiOverviewControl",
+      "repo": "https://github.com/bernardopg/AiOverviewControl",
+      "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
+      "version": "1.2.1"
+    },
+    "path": "/nix/store/9kisgxxmwq1zkpv9n2dnfk0m6fymjbcp-AiOverviewControl",
+    "rev": "0f93e5da94039ab13e3641abc62c1eebb571adae",
+    "rootDir": "",
+    "sha256": "0wihgrl0jji6dncn9q6032kg568v92rjrc51hq2z206w0baydnbv",
+    "url": "https://github.com/bernardopg/AiOverviewControl"
+  },
   "airQuality": {
     "date": "2026-02-26T10:45:26+08:00",
     "deepClone": false,
@@ -1530,12 +1568,12 @@
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
   "dankQuickSearch": {
-    "date": "2026-05-03T18:46:59+02:00",
+    "date": "2026-05-09T11:02:54+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-W3BwiMGWzzKFKh3TXgwjmnrW0c0+aOe/ODA8SgIMVmI=",
+    "hash": "sha256-InNv8f7T1tafoWAeaHHoB0VrLL3cE4L7xV+2HtM8YK8=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -1559,10 +1597,10 @@
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankQuickSearch/main/docs/screenshot.png",
       "version": "0.2.1"
     },
-    "path": "/nix/store/ywah0agkaxwnl1gf0yg434vd4vcnr2aj-DankQuickSearch",
-    "rev": "b476e40bbaf6a7ad7d21543d61ec33c1a30a6efb",
+    "path": "/nix/store/yibhhhq30qsgs3k0vg6knswpg4dff744-DankQuickSearch",
+    "rev": "46d4bf2a8f50f8c1ead1625c694aae12b907896f",
     "rootDir": "",
-    "sha256": "0qjn1h14lg1h72zyfs1yrp8xcyls4c65xlqx5a2k5kwnq6470w2v",
+    "sha256": "1bv07k9ixdjzqpxq44ywpln6ni87x1qnh7k0l6gxdmnkzvqnywr2",
     "url": "https://github.com/alcxyz/DankQuickSearch"
   },
   "dankRazer": {
@@ -1639,12 +1677,12 @@
     "url": "https://github.com/BrendonJL/dms-rss-widget"
   },
   "dankSpotify": {
-    "date": "2026-05-03T18:46:59+02:00",
+    "date": "2026-05-09T11:02:54+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-a0HlVO9UfroWgEx0H7r+pwU0EOORApZs09m45/TjdsA=",
+    "hash": "sha256-r7Ye/jBUtvrpN54LTcv97QxJFhs4r3UCTwXpxMXVsO4=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -1670,10 +1708,10 @@
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankSpotify/main/docs/screenshot.png",
       "version": "0.2.1"
     },
-    "path": "/nix/store/3jzhybdj8w8k3mprx9ww98c0qx4v5h7c-DankSpotify",
-    "rev": "40b81fd83a151445c9c94419ccb7aba913827337",
+    "path": "/nix/store/qdk4lkhv2xcgk6qnjyh3d44ycxvw0vcm-DankSpotify",
+    "rev": "df591c1b44ebb3b58ecc904e4d14162f9132d577",
     "rootDir": "",
-    "sha256": "1h3nwgsfgf6rsdn9c0liwc8381d7zsx1yx2ch0bblzjlxxafahbb",
+    "sha256": "1vmhsp2w9s859w17bbrq3cb4j37dzp5ls2wy6zlzmdjl63z1xdmg",
     "url": "https://github.com/alcxyz/DankSpotify"
   },
   "dankStickerSearch": {
@@ -1796,12 +1834,12 @@
     "url": "https://github.com/deepu105/dms-dank-todo"
   },
   "dankTranslate": {
-    "date": "2026-05-03T18:46:59+02:00",
+    "date": "2026-05-09T11:02:54+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-0JGWHviP7XMcuFcCbtjfHtMYTmS+sGy8ZKRA+0bVpx4=",
+    "hash": "sha256-4gu/UjGb28y0juK1sZ/Q75Ywht79l+3d8FSfGswIz+4=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -1824,12 +1862,12 @@
       "name": "Translate",
       "repo": "https://github.com/alcxyz/DankTranslate",
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankTranslate/main/docs/screenshot.png",
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
-    "path": "/nix/store/sx8fglg9p1gqyi15ndmxzahs967833p2-DankTranslate",
-    "rev": "740968858709ff02134d239279602bd8daa73a33",
+    "path": "/nix/store/m04gsd79wimi75y6bfdrhqkhxphkbcx2-DankTranslate",
+    "rev": "2ffa59f25f5e0f150ca284ff1edee34378887087",
     "rootDir": "",
-    "sha256": "07m7sm3gnh54cjy6rc5yci71ilqyvzc6w0jpp0f77vcgz0g9d4fh",
+    "sha256": "1vng1361m7sly3fyv5zxvs3315pgs2gv3dg2isscrnwv659by2z2",
     "url": "https://github.com/alcxyz/DankTranslate"
   },
   "dankUpsMonitor": {
@@ -1869,12 +1907,12 @@
     "url": "https://github.com/acmagn/DMS-UPS-Monitor"
   },
   "dankVault": {
-    "date": "2026-05-03T18:49:17+02:00",
+    "date": "2026-05-09T11:02:54+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-iCkmKgfrx/xvK/IYcPSaEFCE3GsonSiRTHusN6uBD0o=",
+    "hash": "sha256-1qs00e+JdAAgT98iFvGt8jIITE8BFU18u3ayshdQpm0=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -1898,10 +1936,10 @@
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankVault/main/docs/screenshot.png",
       "version": "0.3.2"
     },
-    "path": "/nix/store/zc4v2f9317h0m04wxkpmcxwj5kdfjyw2-DankVault",
-    "rev": "074a86b3b921236749f9a0bd516af9f8d3b8311b",
+    "path": "/nix/store/vv5yrlj20ydzq327wxhyzni9cxl6v9vy-DankVault",
+    "rev": "85b240439fd4d907cdb3288df1d4cab58fdc312a",
     "rootDir": "",
-    "sha256": "0jhgh6mkgb3v9j8ji798dgf88l0hkbs7067j5dpzrizb0wm2cac8",
+    "sha256": "0vd6a0bv5cknpdy4s5819x60hcpjmpqic8nz9wh00x49xz8k9ayn",
     "url": "https://github.com/alcxyz/DankVault"
   },
   "dankterminaltheme": {
@@ -5146,6 +5184,41 @@
     "rootDir": "",
     "sha256": "183s3n5sfiawnnd3h0fxiyp95divnfhww0ramn1scgh1byh4bswl",
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
+  },
+  "weatherArt": {
+    "date": "2026-04-29T18:18:56-07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-fccoGzHiYMGyZn5L99yIxBo24wneLz7aWGLxQbYfRBs=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "viewerofall",
+      "capabilities": [
+        "desktop-widget"
+      ],
+      "category": "appearance",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "Dynamic weather art widget with responsive ASCII scenes, customizable stats, and theme support",
+      "distro": [
+        "any"
+      ],
+      "id": "weatherArt",
+      "name": "Weather Art",
+      "path": "weatherArt",
+      "repo": "https://github.com/viewerofall-labs/weather-viewer",
+      "screenshot": "https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/weather.png",
+      "version": "0.1.0"
+    },
+    "path": "/nix/store/m35azja7hrhwhn50qgxxn4zlsnf71i14-weather-viewer",
+    "rev": "75f43ba5395423bb6c6574f048893f07bfdbb3d9",
+    "rootDir": "",
+    "sha256": "06s43yv43wb2b3d3wbyy17ikc6n4i3fgfjvycsrc2q7264djiivx",
+    "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "webSearch": {
     "date": "2026-03-19T00:04:34-04:00",
