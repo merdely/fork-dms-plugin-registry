@@ -1230,6 +1230,35 @@ Manage display outputs (Single Display, Mirror, Extend).
 
 
 
+#### [IP Indicator](https://github.com/hthienloc/dms-ipIndicator)
+
+Shows public IP address, ISP and location. Right-click to toggle privacy mode.
+
+
+
+- id: ipIndicator
+- name: IP Indicator
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: curl
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-ipIndicator/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Lenovo Battery Settings](https://github.com/neoscaler/dms-lenovo-battery-settings)
 
 Manage Lenovo battery settings like conservation mode
