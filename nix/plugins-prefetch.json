@@ -1100,7 +1100,7 @@
       "id": "dankCalendar",
       "name": "DankCalendar",
       "repo": "https://github.com/alcxyz/DankCalendar",
-      "screenshot": "https://raw.githubusercontent.com/alcxyz/DankCalendar/v0.4.0/docs/screenshot.png",
+      "screenshot": "https://raw.githubusercontent.com/alcxyz/DankCalendar/main/docs/screenshot.png",
       "version": "0.4.1"
     },
     "path": "/nix/store/lliahy093gg86jlggg064qpngdza3ckx-DankCalendar",
@@ -4355,6 +4355,43 @@
     "rootDir": "",
     "sha256": "02viq521q2mxbx168172qxc8maix01v9iv1hhlddpsm5vxiacbz4",
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
+  },
+  "qrGenerator": {
+    "date": "2026-05-08T00:10:29+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-WPpdpbZbP4qpbjo3quy0QsbyOslQfSilrepj+Fp1FmY=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "qrencode",
+        "wl-clipboard"
+      ],
+      "description": "Dedicated QR code generator.",
+      "distro": [
+        "any"
+      ],
+      "id": "qrGenerator",
+      "name": "QR Generator",
+      "repo": "https://github.com/hthienloc/dms-qr-generator",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/bp46wmxhk7p7gmw9pgjcy2vdjk8gq27l-dms-qr-generator",
+    "rev": "277f6076f06cadbb3aaf835dfde0c5f465a31e9d",
+    "rootDir": "",
+    "sha256": "0rhnfmdghqzamnjjhzahr4xg5ij2nknaldrsdslqlgsvnsjmvyjq",
+    "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quranWidget": {
     "date": "2026-04-25T08:36:08-04:00",
