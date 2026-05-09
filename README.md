@@ -3944,6 +3944,35 @@ Search and browse stickers powered by Klipy
 
 
 
+#### [Stopwatch](https://github.com/hthienloc/dms-stopwatch)
+
+High-precision stopwatch.
+
+
+
+- id: stopwatch
+- name: Stopwatch
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-stopwatch/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Tailscale Manager](https://github.com/cglavin50/dms-tailscale)
 
 Tailscale-toggle plugin for DankBar
