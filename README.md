@@ -492,6 +492,35 @@ Monitor AMD GPU usage, VRAM, temperature, power consumption and process usage wi
 
 
 
+#### [AiOverviewControl](https://github.com/bernardopg/AiOverviewControl)
+
+Monitor AI subscription and API usage for Claude, Copilot, Codex, Gemini, and OpenRouter from DankBar
+
+
+
+- id: aiOverviewControl
+- name: AiOverviewControl
+- author: Bernardo Gomes
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: bash, jq, curl
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Air Quality](https://github.com/szabolcsf/dms-air-quality)
 
 Display the current Air Quality Index (AQI) on the bar with detailed pollutant breakdown. Supports US and European AQI scales with auto-location.
