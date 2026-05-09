@@ -289,6 +289,40 @@ A new fresh daily wallpaper downloaded from a famous portal (Widget)
 
 
 
+#### [Weather Art](https://github.com/viewerofall-labs/weather-viewer)
+
+Dynamic weather art widget with responsive ASCII scenes, customizable stats, and theme support
+
+
+
+- id: weatherArt
+- name: Weather Art
+- author: viewerofall
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: 
+- distro: any
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [weatherArt](https://github.com/viewerofall-labs/weather-viewer/tree/main/weatherArt) folder to your `~/.config/DankMaterialShell/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/weather.png)
+
+</details>
+
+
+
+
+
 #### [mpvpaper Video Wallpaper](https://github.com/kanghengliu/dms-mpvpaper)
 
 Video wallpaper support using mpvpaper
