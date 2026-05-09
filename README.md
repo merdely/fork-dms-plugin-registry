@@ -3297,6 +3297,35 @@ List and switch to open Niri windows from the launcher
 
 
 
+#### [Obsidian Vault Search](https://github.com/kmf/dms-obsidian-search)
+
+Search notes in your Obsidian vaults by title, folder, and content directly from the DMS launcher
+
+
+
+- id: obsidianSearch
+- name: Obsidian Vault Search
+- author: kmf
+- compositors: any
+- capabilities: launcher
+- dependencies: xdg-open
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://github.com/kmf/dms-obsidian-search/blob/main/Screenshot.png?raw=true)
+
+</details>
+
+
+
+
+
 #### [Pass](https://github.com/LouisKottmann/dms-pass)
 
 DMS Launcher plugin to fuzzy-search Pass entries and copy them to the clipboard.
