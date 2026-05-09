@@ -4176,6 +4176,35 @@ Display a customizable countdown timer in the Dankbar. Perfect for tracking impo
 
 
 
+#### [Timer](https://github.com/hthienloc/dms-timer)
+
+Feature-rich countdown timer.
+
+
+
+- id: timer
+- name: Timer
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: libnotify, pulseaudio
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-timer/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Translate](https://github.com/alcxyz/DankTranslate)
 
 Translate text between languages using translate-shell
