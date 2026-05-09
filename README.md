@@ -2295,7 +2295,7 @@ CalDAV calendar widget with event listing, notifications, and event management v
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://raw.githubusercontent.com/alcxyz/DankCalendar/v0.4.0/docs/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/alcxyz/DankCalendar/main/docs/screenshot.png)
 
 </details>
 
@@ -3593,6 +3593,35 @@ Monitor and control your Pulsar X3 gaming mouse
 <summary>Screenshot</summary>
 
 ![screenshot](https://github.com/jonkristian/dms-pulsar-x3/blob/main/screenshot.png?raw=true)
+
+</details>
+
+
+
+
+
+#### [QR Generator](https://github.com/hthienloc/dms-qr-generator)
+
+Dedicated QR code generator.
+
+
+
+- id: qrGenerator
+- name: QR Generator
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: qrencode, wl-clipboard
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png)
 
 </details>
 
