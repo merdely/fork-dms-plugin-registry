@@ -34,7 +34,7 @@ Some plugins are created by third-party developers and are not officially suppor
 
 ## Plugins
 
-**Categories:** [Stock](#stock) | [Appearance](#appearance) | [Finance](#finance) | [Media](#media) | [Monitoring](#monitoring) | [Productivity](#productivity) | [Social](#social) | [System](#system) | [Utilities](#utilities) | [Utility](#utility) | [Weather](#weather)
+**Categories:** [Stock](#stock) | [Appearance](#appearance) | [Finance](#finance) | [Media](#media) | [Monitoring](#monitoring) | [Network](#network) | [Productivity](#productivity) | [Social](#social) | [System](#system) | [Utilities](#utilities) | [Utility](#utility) | [Weather](#weather)
 
 ---
 
@@ -930,6 +930,43 @@ Monitor active SSH, SFTP, FTP, and Yazi VFS connections with hostname resolution
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/boutabong/dms-plugins/master/screenshots/sshmonitor-popout.png)
+
+</details>
+
+
+
+
+
+---
+
+
+
+### Network
+
+
+
+#### [Pangolin Widget](https://github.com/RiceaRaul/DMS-PangolinPlugin)
+
+QuickShell plugin for DankMaterialShell that exposes Pangolin VPN status, peer list with live RTT, routes, connection controls, and notifications. Backed by the pangolin CLI.
+
+
+
+- id: pangolinWidget
+- name: Pangolin Widget
+- author: Ricea Ion Raul
+- compositors: any
+- capabilities: dankbar-widget, control-center-widget
+- dependencies: pangolin
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://github.com/RiceaRaul/DMS-PangolinPlugin/blob/main/docs/screenshots/popout.png?raw=true)
 
 </details>
 
