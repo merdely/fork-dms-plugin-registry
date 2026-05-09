@@ -5006,6 +5006,43 @@
     "sha256": "1zziyyin4wkwwbpn1cgmzvm2mbwcjfs38yd67fiiqr882rf4qxyj",
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
+  "timer": {
+    "date": "2026-05-07T18:13:37+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-88kysfuhulpN0UxjCTM9scqzZYD0il2KqtRXmVLcq2w=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "libnotify",
+        "pulseaudio"
+      ],
+      "description": "Feature-rich countdown timer.",
+      "distro": [
+        "any"
+      ],
+      "id": "timer",
+      "name": "Timer",
+      "repo": "https://github.com/hthienloc/dms-timer",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-timer/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/5b5grrqj1srd07fm2s0ra0f7ggkp0kgj-dms-timer",
+    "rev": "e5f72fdba554b6164c437fc024890172171abec1",
+    "rootDir": "",
+    "sha256": "0v5bvi99jmylma55v2plh1jv7jmi7lrhjqscs56mmfm1zfqk5jgk",
+    "url": "https://github.com/hthienloc/dms-timer"
+  },
   "trashBin": {
     "date": "2026-04-18T00:08:04+08:00",
     "deepClone": false,
