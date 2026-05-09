@@ -922,6 +922,44 @@
     "sha256": "13189y641rpdiizc22h4pnzblsxw9y50mm54d9lbxw1il83rw1s2",
     "url": "https://github.com/AvengeMedia/dms-plugins"
   },
+  "dankAsusControlCenter": {
+    "date": "2026-05-07T19:02:38+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-qcV7hIqXd+0CNjsVaZyGB7x0Sd54dkH/BtzVbMRQ9rU=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Shazzaam",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "asusctl",
+        "supergfxctl",
+        "upower"
+      ],
+      "description": "Manage Power Profiles and GPU Modes for ASUS Laptops directly from your DankBar.",
+      "distro": [
+        "any"
+      ],
+      "id": "dankAsusControlCenter",
+      "name": "Dank ASUS Control Center",
+      "repo": "https://github.com/shazzaam7/DankAsusControl",
+      "screenshot": "https://raw.githubusercontent.com/shazzaam7/DankAsusControl/refs/heads/main/assets/popup.png",
+      "version": "2.0.0"
+    },
+    "path": "/nix/store/cp30g4c3y9v52811cdbsrljzz81m5jdk-DankAsusControl",
+    "rev": "07ef2964f0f4966feac5e704f1c5fb22ea378552",
+    "rootDir": "",
+    "sha256": "1dgna326rmfw0vzl2xkqvr4p9g07hsf6j59v6q1fsxwpia27pid9",
+    "url": "https://github.com/shazzaam7/DankAsusControl"
+  },
   "dankAudioVisualizer": {
     "date": "2026-04-03T21:44:48+02:00",
     "deepClone": false,
@@ -3263,6 +3301,42 @@
     "sha256": "17f8lsnr1gkbi7zdfgyi9p3srya1x43i5cfkbqy891qhb5awzga1",
     "url": "https://github.com/corcoran/dms-interval-command"
   },
+  "ipIndicator": {
+    "date": "2026-05-07T18:13:35+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-u2vWlvYzkbNOW6Oyd410zuWiQfxHxXjeXhrh/BCitFo=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "system",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "curl"
+      ],
+      "description": "Shows public IP address, ISP and location. Right-click to toggle privacy mode.",
+      "distro": [
+        "any"
+      ],
+      "id": "ipIndicator",
+      "name": "IP Indicator",
+      "repo": "https://github.com/hthienloc/dms-ipIndicator",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ipIndicator/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/4vwsw5z7wk2fxp2bg3131ks4m1lnkc7r-dms-ipIndicator",
+    "rev": "ea39a36f46f9083a694b94e02813d0be8f5884ef",
+    "rootDir": "",
+    "sha256": "0nmll88grq8sbvg7iia7zi0s5rfffj6pgcm3bd7b749kysbdcsxv",
+    "url": "https://github.com/hthienloc/dms-ipIndicator"
+  },
   "keybindingCheatSheet": {
     "date": "2026-04-07T12:40:10+02:00",
     "deepClone": false,
@@ -3995,6 +4069,44 @@
     "sha256": "1pffaz26fgjny0g3030x6gv7bajd7rzzlj7micpps09ghhqzpgxn",
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
+  "pangolinWidget": {
+    "date": "2026-05-02T17:35:24+03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-ksdzydSPSFk6nj3wCPVrXt4MjgpWS9rhRF79pZV7fgU=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Ricea Ion Raul",
+      "capabilities": [
+        "dankbar-widget",
+        "control-center-widget"
+      ],
+      "category": "network",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "pangolin"
+      ],
+      "description": "QuickShell plugin for DankMaterialShell that exposes Pangolin VPN status, peer list with live RTT, routes, connection controls, and notifications. Backed by the pangolin CLI.",
+      "distro": [
+        "any"
+      ],
+      "id": "pangolinWidget",
+      "name": "Pangolin Widget",
+      "path": "",
+      "repo": "https://github.com/RiceaRaul/DMS-PangolinPlugin",
+      "screenshot": "https://github.com/RiceaRaul/DMS-PangolinPlugin/blob/main/docs/screenshots/popout.png?raw=true",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/28wcds73dmj8mlmsa0k7zpmngisi06sx-DMS-PangolinPlugin",
+    "rev": "e8c24c549be755ff4f21d00d91ece7734d4d0928",
+    "rootDir": "",
+    "sha256": "01bygfasbzay8khxljsn1a70rpjydgshiw1xkqx5jj4gsk4p7iwj",
+    "url": "https://github.com/RiceaRaul/DMS-PangolinPlugin"
+  },
   "pkgUpdate": {
     "date": "2026-04-19T20:57:08-04:00",
     "deepClone": false,
@@ -4640,6 +4752,40 @@
     "rootDir": "",
     "sha256": "0c6nh67x59jxcv5ax39yijrvm4bk54kw4kg5w12218sjc6fyqxhq",
     "url": "https://github.com/leemeng0x61/stockManager"
+  },
+  "stopwatch": {
+    "date": "2026-05-07T18:13:37+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-are/MAVCev0xgKM5UliVhz80b/1ndQlIsSGif8bb8Ho=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "High-precision stopwatch.",
+      "distro": [
+        "any"
+      ],
+      "id": "stopwatch",
+      "name": "Stopwatch",
+      "repo": "https://github.com/hthienloc/dms-stopwatch",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-stopwatch/main/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/kfyawy5kp6wfgzmvnagk7710dmqhws4h-dms-stopwatch",
+    "rev": "65faf7ea888063983ac75d49e44acc54f268b871",
+    "rootDir": "",
+    "sha256": "0yphvg37z8i1n540jxb7zmpk8gw7jmc54fd3h0qzsyj20lqbzdva",
+    "url": "https://github.com/hthienloc/dms-stopwatch"
   },
   "tailscale": {
     "date": "2025-12-28T23:10:04-05:00",
