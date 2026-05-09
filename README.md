@@ -1504,6 +1504,35 @@ Alienware Command Center plugin for DankBar
 
 
 
+#### [Ambient Sound](https://github.com/hthienloc/dms-ambient-sound)
+
+Play ambient sounds for focus with sleep timer and volume control.
+
+
+
+- id: ambientSound
+- name: Ambient Sound
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: mpv, socat
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-ambient-sound/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Anime Calendar](https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin)
 
 A QuickShell plugin for DankMaterialShell that tracks anime episode releases and sends notifications when your favorite shows air.
@@ -1613,6 +1642,64 @@ Quickly toggle between different audio output devices
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/CD-Z/dms-plugins/master/settings.png)
+
+</details>
+
+
+
+
+
+#### [Bongo Cat](https://github.com/hthienloc/dms-bongo-cat)
+
+A reactive Bongo Cat that taps along with your typing
+
+
+
+- id: bongoCat
+- name: Bongo Cat
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: evtest
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [Breathing Exercise](https://github.com/hthienloc/dms-breathing)
+
+Guided breathing exercises for relaxation and focus.
+
+
+
+- id: breathing
+- name: Breathing Exercise
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-breathing/master/screenshot.png)
 
 </details>
 
@@ -3114,6 +3201,35 @@ Displays LiveChart anime schedule data pulled from a local browser session.
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png)
+
+</details>
+
+
+
+
+
+#### [Lutris Launcher](https://github.com/hthienloc/dms-lutris-launcher)
+
+Quickly launch and manage your Lutris games library directly from the shell bar.
+
+
+
+- id: lutrisLauncher
+- name: Lutris Launcher
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: lutris
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-lutris-launcher/master/screenshot.png)
 
 </details>
 
