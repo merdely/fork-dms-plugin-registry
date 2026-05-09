@@ -524,6 +524,42 @@
     "sha256": "0r0z45lwmsw8vs9jyk12djfqrfj0yk10hbc2pca69pl4ijnxx8w8",
     "url": "https://github.com/psyreactor/dms-awcc"
   },
+  "bongoCat": {
+    "date": "2026-05-10T04:24:30+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-YJQHLZ1mSp48xM8Ou1WRHVsTPDvFlzKTuSorofuzIQg=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "evtest"
+      ],
+      "description": "A reactive Bongo Cat that taps along with your typing",
+      "distro": [
+        "any"
+      ],
+      "id": "bongoCat",
+      "name": "Bongo Cat",
+      "repo": "https://github.com/hthienloc/dms-bongo-cat",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
+      "version": "1.1.2"
+    },
+    "path": "/nix/store/gg6cwjy4fsz7yssybs3x70c6y85z3lyn-dms-bongo-cat",
+    "rev": "78c2e88dbb6cb7d5a9d7eb09a370d3c903d84393",
+    "rootDir": "",
+    "sha256": "0211ngxs2arap69k55y57cy16nqxj5avn3ngqhy9wjk6klnhg530",
+    "url": "https://github.com/hthienloc/dms-bongo-cat"
+  },
   "calculator": {
     "date": "2026-05-03T22:10:59+01:00",
     "deepClone": false,
@@ -746,12 +782,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
-    "date": "2026-04-24T14:11:33+07:00",
+    "date": "2026-05-10T01:22:04+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fatDANLdr4aI+3QGmRHhF9mmut0Ow2BGwwvIFxOSs1w=",
+    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -777,10 +813,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/ClipboardPlus/preview/preview-blur.png",
       "version": "1.0.7"
     },
-    "path": "/nix/store/jci8vp9w85ffih5acqifvljw0ijslhvs-dms-plugins",
-    "rev": "2777243d14fdbe184dbf18907097909c086e2179",
+    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
+    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
     "rootDir": "",
-    "sha256": "0p5kj89igj0bqd361hqfvnxadn8pw48rj1klzf48dbyxs8047avx",
+    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "codexBar": {
@@ -3817,12 +3853,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "netbirdStatus": {
-    "date": "2026-04-24T14:11:33+07:00",
+    "date": "2026-05-10T01:22:04+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fatDANLdr4aI+3QGmRHhF9mmut0Ow2BGwwvIFxOSs1w=",
+    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -3847,10 +3883,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/NetbirdStatus/preview/widget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/jci8vp9w85ffih5acqifvljw0ijslhvs-dms-plugins",
-    "rev": "2777243d14fdbe184dbf18907097909c086e2179",
+    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
+    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
     "rootDir": "",
-    "sha256": "0p5kj89igj0bqd361hqfvnxadn8pw48rj1klzf48dbyxs8047avx",
+    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "nextBootSelector": {
@@ -4357,12 +4393,12 @@
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "qrGenerator": {
-    "date": "2026-05-08T00:10:29+07:00",
+    "date": "2026-05-10T04:01:13+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WPpdpbZbP4qpbjo3quy0QsbyOslQfSilrepj+Fp1FmY=",
+    "hash": "sha256-2PZgorOoAdecuPRQAEnmsDYnOWAJHRL1v2VAjwwsdaE=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4385,12 +4421,12 @@
       "name": "QR Generator",
       "repo": "https://github.com/hthienloc/dms-qr-generator",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.0.6"
     },
-    "path": "/nix/store/bp46wmxhk7p7gmw9pgjcy2vdjk8gq27l-dms-qr-generator",
-    "rev": "277f6076f06cadbb3aaf835dfde0c5f465a31e9d",
+    "path": "/nix/store/cqlx5c0ma5n6g5s8fc9gc7mhki02pa8p-dms-qr-generator",
+    "rev": "a044d45e7b1a3319257c7eceee765908b0f2582b",
     "rootDir": "",
-    "sha256": "0rhnfmdghqzamnjjhzahr4xg5ij2nknaldrsdslqlgsvnsjmvyjq",
+    "sha256": "18bm5h68yh35pzsi4789c0wjfdmhwr4h0l7lp2fdf0d8nfi61xnq",
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quranWidget": {
@@ -4607,12 +4643,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "simpleAudioControl": {
-    "date": "2026-04-24T14:11:33+07:00",
+    "date": "2026-05-10T01:22:04+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fatDANLdr4aI+3QGmRHhF9mmut0Ow2BGwwvIFxOSs1w=",
+    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4635,10 +4671,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SimpleAudioControl/preview/tab-1.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/jci8vp9w85ffih5acqifvljw0ijslhvs-dms-plugins",
-    "rev": "2777243d14fdbe184dbf18907097909c086e2179",
+    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
+    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
     "rootDir": "",
-    "sha256": "0p5kj89igj0bqd361hqfvnxadn8pw48rj1klzf48dbyxs8047avx",
+    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "sshConnections": {
