@@ -2041,6 +2041,35 @@ Create tmux sessions for your projects
 
 
 
+#### [DNS Switcher](https://github.com/JDKamalakar/DMS-DNS_Switcher)
+
+Switch system DNS providers and monitor network status.
+
+
+
+- id: dnsSwitcher
+- name: DNS Switcher
+- author: JDKamalakar
+- compositors: any
+- capabilities: dankbar-widget, control-center
+- dependencies: dms
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/JDKamalakar/DMS-DNS_Switcher/refs/heads/main/assets/POP-Up_UI.png)
+
+</details>
+
+
+
+
+
 #### [Dank Actions](https://github.com/AvengeMedia/dms-plugins)
 
 Add customizable, scriptable actions to your bar.
@@ -2838,6 +2867,35 @@ Search and browse GIFs powered by Klipy
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/AvengeMedia/dms-plugins/refs/heads/master/DankGifSearch/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [GitHub Heatmap Revive](https://github.com/JDKamalakar/DMS-GitHub_HeatMap)
+
+Display GitHub contribution heatmap with color-coded activity levels
+
+
+
+- id: githubHeatmapRevive
+- name: GitHub Heatmap Revive
+- author: JDKamalakar
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: dms
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/JDKamalakar/DMS-GitHub_HeatMap/refs/heads/main/assets/POP_Up-UI.png)
 
 </details>
 
@@ -3774,6 +3832,35 @@ Minimal web search from the launcher with engine prefixes
 
 
 
+#### [Quick Tote](https://github.com/JDKamalakar/DMS-Quick_Tote)
+
+Quick access to recent downloads, screenshots, and pinned files (CROS Tote style).
+
+
+
+- id: quickTote
+- name: Quick Tote
+- author: JDKamalakar
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: dms
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/JDKamalakar/DMS-Quick_Tote/refs/heads/main/assets/POP-Up_UI.png)
+
+</details>
+
+
+
+
+
 #### [Quran Widget](https://codeberg.org/MezoAhmedII/quranWidget)
 
 Shows a random Quranic Ayah / verse on the desktop
@@ -3888,6 +3975,35 @@ A simple multi model ai client to use with your dank shell. Use it ollama, gemin
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png)
+
+</details>
+
+
+
+
+
+#### [Screen Capture Toolbar](https://github.com/JDKamalakar/DMS-ScreenCapture_Toolbar)
+
+Premium pill-shaped toolbar for quick screenshots and screen recording
+
+
+
+- id: screenCaptureToolbar
+- name: Screen Capture Toolbar
+- author: JDKamalakar
+- compositors: any
+- capabilities: ipc
+- dependencies: dms, gpu screen recorder
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/JDKamalakar/DMS-ScreenCapture_Toolbar/refs/heads/main/assets/Screenshot_UI.png)
 
 </details>
 
