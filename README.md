@@ -3566,6 +3566,35 @@ List and switch to open Niri windows from the launcher
 
 
 
+#### [OCR Scanner](https://github.com/hthienloc/dms-ocr-scanner)
+
+Extract text from images in clipboard or files using Tesseract OCR.
+
+
+
+- id: ocrScanner
+- name: OCR Scanner
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: tesseract, wl-clipboard, kdialog
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-ocr-scanner/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Obsidian Vault Search](https://github.com/kmf/dms-obsidian-search)
 
 Search notes in your Obsidian vaults by title, folder, and content directly from the DMS launcher
