@@ -2563,12 +2563,12 @@
     "url": "https://github.com/LouisKottmann/dms-pass"
   },
   "dmsScreenshot": {
-    "date": "2026-04-25T13:03:05+05:30",
+    "date": "2026-05-10T19:34:41+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bOxndJxjAqSvEohwWRphEc7/7ZTMN+t8dq9Mbliabv8=",
+    "hash": "sha256-Vf2J5Gmb/gyMDC9YhU4cxqSqPTbJR5WXdOheKssL8qw=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2600,12 +2600,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Screenshot/refs/heads/main/assets/Dank-Bar_Widget.png",
       "settings": "./Settings.qml",
       "type": "widget",
-      "version": "1.3.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/xxz4rs0lpq21iwva3xbnp10ihs1b3s7w-DMS-Screenshot",
-    "rev": "a2816cd2c7fd6907b5c57fa37fb56175b42c6f14",
+    "path": "/nix/store/zz53rbzv56rkjhnwi6vpxj451xdpvi67-DMS-Screenshot",
+    "rev": "f40deaf839b6e45feb978fa83a28c3db117b3c87",
     "rootDir": "",
-    "sha256": "1zvfk9c6wk5gfryfndycjknzzkhic4d5jw482aps80k3kis6gv3c",
+    "sha256": "1b7j1g5jlpp8fjbraiy96qysm9663i78an1g1j60rzlvd7j8kzam",
     "url": "https://github.com/JDKamalakar/DMS-Screenshot"
   },
   "dmsSessionizer": {
@@ -3535,6 +3535,40 @@
     "sha256": "0nmll88grq8sbvg7iia7zi0s5rfffj6pgcm3bd7b749kysbdcsxv",
     "url": "https://github.com/hthienloc/dms-ipIndicator"
   },
+  "kaomojiPicker": {
+    "date": "2026-05-10T21:03:09+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-Sr+ABnB9f2UL+BsvQ6z/gdZ10f1GHLqwjSfnmuds3tw=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "launcher"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "Local kaomoji picker for DMS",
+      "distro": [
+        "any"
+      ],
+      "id": "kaomojiPicker",
+      "name": "Kaomoji Picker",
+      "repo": "https://github.com/hthienloc/dms-kaomoji-picker",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-kaomoji-picker/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/cxbvxv358sngisqzgp3nz05b4n199g1l-dms-kaomoji-picker",
+    "rev": "1cb62f07823d59ae2a589b243c9c94339c385688",
+    "rootDir": "",
+    "sha256": "1p6ydkkrmrr7inqbl726zp8pbml1zyn46bqvz05nazvxf0381gsa",
+    "url": "https://github.com/hthienloc/dms-kaomoji-picker"
+  },
   "keybindingCheatSheet": {
     "date": "2026-04-07T12:40:10+02:00",
     "deepClone": false,
@@ -3648,12 +3682,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-04-25T13:04:57+05:30",
+    "date": "2026-05-10T19:48:30+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AswjaXCVSJ/mpSZU/jjv1av+WOipP1oVkyn/tcsiSk8=",
+    "hash": "sha256-rbdOSm+3+V/o2ApZC/uuv8SDUoEKE/UOgXuvzahuK+c=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -3686,12 +3720,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./LiveChartSettings.qml",
       "type": "widget",
-      "version": "1.1.1"
+      "version": "1.1.4"
     },
-    "path": "/nix/store/lgg8mg9p4kdg1nbkpidvmskfdn1xl831-DMS-LiveChart.me",
-    "rev": "8a31b57848476c9f0dd32ae20190465f7ade6fbb",
+    "path": "/nix/store/mfgiap0z5m1wi2h6i06qjqvw4ayarx8v-DMS-LiveChart.me",
+    "rev": "5894a50676cd33e2b7e09aec7a2fc610fcb7f660",
     "rootDir": "",
-    "sha256": "0ksa4b5vbzr9jcamlgx9x1cgxaymxwwgwm16lpk9yj4mf1lj7k02",
+    "sha256": "1rrbdslcvbvvh47ga4qah5987i5zmvxhnn8av3l5zydpdx54xdxd",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "lutrisLauncher": {
@@ -5771,12 +5805,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperShufflerPlugin": {
-    "date": "2026-03-12T20:53:22+08:00",
+    "date": "2026-05-10T20:33:06+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lOtFoF8BPqaDrSoDzqGzO7aSro/dATiatVxFp4sdeqA=",
+    "hash": "sha256-kwG9W3MG/Ex669MpSdY4sF063UQz5GeZUcoeIRh/fgo=",
     "leaveDotGit": false,
     "meta": {
       "author": "Daniel-42-z",
@@ -5798,10 +5832,10 @@
       "screenshot": "https://raw.githubusercontent.com/Daniel-42-z/dms-wallpaper-shuffler/refs/heads/main/screenshot.png",
       "version": "1.0.2"
     },
-    "path": "/nix/store/35gxklc7jl87vbd0wikhqqc5dbds9f64-dms-wallpaper-shuffler",
-    "rev": "8acdaf1aad2bbd3425fdd57e215fca295b80cbdd",
+    "path": "/nix/store/dqv85hvra7ild8sbzrzbjf8kv68fv26v-dms-wallpaper-shuffler",
+    "rev": "8c6758cb1bb91ef226b070d859bedd5c4b2ce9d0",
     "rootDir": "",
-    "sha256": "183s3n5sfiawnnd3h0fxiyp95divnfhww0ramn1scgh1byh4bswl",
+    "sha256": "02kygwc227naa6cngr1k8kfklpdh73b4jafkxdx4rz06fddvs0ck",
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "weatherArt": {
