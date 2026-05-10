@@ -211,7 +211,7 @@
         "mpv",
         "socat"
       ],
-      "description": "Play ambient sounds for focus with sleep timer and volume control.",
+      "description": "Play ambient focus sounds with integrated sleep timer and volume control.",
       "distro": [
         "any"
       ],
@@ -581,7 +581,7 @@
       "dependencies": [
         "evtest"
       ],
-      "description": "A reactive Bongo Cat that taps along with your typing",
+      "description": "A reactive animated cat that taps along with your keyboard input.",
       "distro": [
         "any"
       ],
@@ -615,7 +615,7 @@
         "any"
       ],
       "dependencies": [],
-      "description": "Guided breathing exercises for relaxation and focus.",
+      "description": "A guided breathing exercise tool for mindfulness and relaxation.",
       "distro": [
         "any"
       ],
@@ -2949,6 +2949,43 @@
     "sha256": "0iz1w5lwvp4bhq42axhp1bbnbsw3h021hlbilb7dsh9m5yg9qmrr",
     "url": "https://github.com/merdely/dms-plugins"
   },
+  "floaty": {
+    "date": "2026-05-11T04:04:16+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-QOObwrTJKu5INQ2w3qBddAygufPd2sQJJqzT7G9IsBs=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "wl-clipboard",
+        "kdialog"
+      ],
+      "description": "A minimalist tool to float clipboard or local images on top of all windows.",
+      "distro": [
+        "any"
+      ],
+      "id": "floaty",
+      "name": "Floaty",
+      "repo": "https://github.com/hthienloc/dms-floaty",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-floaty/main/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/fiqsg3r6vfz583q6ccza6kr6adq0gajn-dms-floaty",
+    "rev": "2b478b2fc82ce318a33bacd550e5160e5ef86b1f",
+    "rootDir": "",
+    "sha256": "06xh91pyrlxc4q4w9nnxyfws033lbnhdxc0d6m4fwan9nk19pqs0",
+    "url": "https://github.com/hthienloc/dms-floaty"
+  },
   "formatColorPicker": {
     "date": "2026-03-16T15:16:51+05:30",
     "deepClone": false,
@@ -3519,7 +3556,7 @@
       "dependencies": [
         "curl"
       ],
-      "description": "Shows public IP address, ISP and location. Right-click to toggle privacy mode.",
+      "description": "Display public IP address, ISP, and location with a privacy-focused toggle.",
       "distro": [
         "any"
       ],
@@ -3552,8 +3589,10 @@
       "compositors": [
         "any"
       ],
-      "dependencies": [],
-      "description": "Local kaomoji picker for DMS",
+      "dependencies": [
+        "wl-clipboard"
+      ],
+      "description": "A lightweight launcher for browsing and copying kaomojis to the clipboard.",
       "distro": [
         "any"
       ],
@@ -3748,7 +3787,7 @@
       "dependencies": [
         "lutris"
       ],
-      "description": "Quickly launch and manage your Lutris games library directly from the shell bar.",
+      "description": "Quickly browse and launch games from your Lutris library.",
       "distro": [
         "any"
       ],
@@ -4359,7 +4398,7 @@
         "wl-clipboard",
         "kdialog"
       ],
-      "description": "Extract text from images in clipboard or files using Tesseract OCR.",
+      "description": "Extract text from clipboard images or local files using Tesseract OCR.",
       "distro": [
         "any"
       ],
@@ -4683,14 +4722,14 @@
         "qrencode",
         "wl-clipboard"
       ],
-      "description": "Dedicated QR code generator.",
+      "description": "Generate QR codes from clipboard text or manual input.",
       "distro": [
         "any"
       ],
       "id": "qrGenerator",
       "name": "QR Generator",
       "repo": "https://github.com/hthienloc/dms-qr-generator",
-      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qr-generator/master/screenshot.png",
       "version": "1.1.0"
     },
     "path": "/nix/store/q1rlab9fadb5p8r4h533ajdh0f5as2qf-dms-qr-generator",
@@ -5205,7 +5244,7 @@
         "any"
       ],
       "dependencies": [],
-      "description": "High-precision stopwatch.",
+      "description": "A high-precision stopwatch for time tracking.",
       "distro": [
         "any"
       ],
@@ -5424,7 +5463,7 @@
         "libnotify",
         "pulseaudio"
       ],
-      "description": "Feature-rich countdown timer.",
+      "description": "A countdown timer with notification support and audio alerts.",
       "distro": [
         "any"
       ],
