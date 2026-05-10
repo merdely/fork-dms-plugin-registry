@@ -190,6 +190,43 @@
     "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
+  "ambientSound": {
+    "date": "2026-05-09T21:03:22+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-A6w+SlRbKRGssAYo9cjuBgpb06lSJUnTAwJ6EWZqMjE=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "mpv",
+        "socat"
+      ],
+      "description": "Play ambient sounds for focus with sleep timer and volume control.",
+      "distro": [
+        "any"
+      ],
+      "id": "ambientSound",
+      "name": "Ambient Sound",
+      "repo": "https://github.com/hthienloc/dms-ambient-sound",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ambient-sound/master/screenshot.png",
+      "version": "1.0.1"
+    },
+    "path": "/nix/store/a21h5ns1yx5hiqkbk9pgxf2idd6lvmsc-dms-ambient-sound",
+    "rev": "859acf68802373674656224730bd0d139c55e683",
+    "rootDir": "",
+    "sha256": "0c9jd9k12yh20g9lj9ajm79mn2h6xv4gaa06n2n12aavai53xb03",
+    "url": "https://github.com/hthienloc/dms-ambient-sound"
+  },
   "amdGpuMonitor": {
     "date": "2026-05-01T00:38:42+02:00",
     "deepClone": false,
@@ -525,12 +562,12 @@
     "url": "https://github.com/psyreactor/dms-awcc"
   },
   "bongoCat": {
-    "date": "2026-05-10T04:24:30+07:00",
+    "date": "2026-05-10T04:27:26+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YJQHLZ1mSp48xM8Ou1WRHVsTPDvFlzKTuSorofuzIQg=",
+    "hash": "sha256-Bu0YTqRWGyIDnl/YbGPG+G5S8ty9DUuKMbv/FE6Vzvo=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -552,13 +589,47 @@
       "name": "Bongo Cat",
       "repo": "https://github.com/hthienloc/dms-bongo-cat",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
-      "version": "1.1.2"
+      "version": "1.1.4"
     },
-    "path": "/nix/store/gg6cwjy4fsz7yssybs3x70c6y85z3lyn-dms-bongo-cat",
-    "rev": "78c2e88dbb6cb7d5a9d7eb09a370d3c903d84393",
+    "path": "/nix/store/9jmz0g9fgb5nwrv7g4scrcx6g92sbc3h-dms-bongo-cat",
+    "rev": "14949a9d8724d4e685dae3997e7de17f42cb1773",
     "rootDir": "",
-    "sha256": "0211ngxs2arap69k55y57cy16nqxj5avn3ngqhy9wjk6klnhg530",
+    "sha256": "1ynfjm719zxv6654n3dxvkr54vpqqrinrn2zkq1j46snli71iv86",
     "url": "https://github.com/hthienloc/dms-bongo-cat"
+  },
+  "breathing": {
+    "date": "2026-05-09T08:45:12+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-1Aclx3UdjAwrsLyimOg8saInFe4s04QDiUHwrY6nBlo=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "Guided breathing exercises for relaxation and focus.",
+      "distro": [
+        "any"
+      ],
+      "id": "breathing",
+      "name": "Breathing Exercise",
+      "repo": "https://github.com/hthienloc/dms-breathing",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-breathing/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/jwpzqryfrfgir6akhii4s2fiwjsr74zq-dms-breathing",
+    "rev": "4930f438ad9f5bf0d8e7c0c91a7598eadf06f140",
+    "rootDir": "",
+    "sha256": "0nh6ly7avw21i41q9lrcxqajg8mi7kl9i8mwn0mhr30xfp3ja1yl",
+    "url": "https://github.com/hthienloc/dms-breathing"
   },
   "calculator": {
     "date": "2026-05-03T22:10:59+01:00",
@@ -3304,12 +3375,12 @@
     "url": "https://github.com/murilo-gotardo/dms-image-converter"
   },
   "intervalCommand": {
-    "date": "2026-05-08T14:43:48-04:00",
+    "date": "2026-05-09T19:13:38-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Qb3PVVkQh4Q8XtOxEgfpQfmsx03RP9f+iWu+kK2myJ0=",
+    "hash": "sha256-5Th60t00wNITpI/ufnCqAl9/IquGUC9tS7PTGHvuKj0=",
     "leaveDotGit": false,
     "meta": {
       "author": "corcoran",
@@ -3329,12 +3400,12 @@
       "name": "Interval Command",
       "repo": "https://github.com/corcoran/dms-interval-command",
       "screenshot": "https://raw.githubusercontent.com/corcoran/dms-interval-command/main/screenshots/screenshot.png",
-      "version": "0.9.3"
+      "version": "0.10.0"
     },
-    "path": "/nix/store/x624j5rxz1j4kb9gqz7dw8i3f3xmvv54-dms-interval-command",
-    "rev": "ae376cdadced65dc373a9b13c2fb447c1da4f316",
+    "path": "/nix/store/pnx4n1dhr4h6vk26pkbdv75cly39yljs-dms-interval-command",
+    "rev": "8e9a4a45368b83cd0b62ccf7adf6e33c325ea9ae",
     "rootDir": "",
-    "sha256": "17f8lsnr1gkbi7zdfgyi9p3srya1x43i5cfkbqy891qhb5awzga1",
+    "sha256": "0g9axrxiilxk9dnjyl46mci7ypq2m9q7xvlglh9x5h1lvp97lf75",
     "url": "https://github.com/corcoran/dms-interval-command"
   },
   "ipIndicator": {
@@ -3531,6 +3602,42 @@
     "rootDir": "",
     "sha256": "0ksa4b5vbzr9jcamlgx9x1cgxaymxwwgwm16lpk9yj4mf1lj7k02",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
+  },
+  "lutrisLauncher": {
+    "date": "2026-05-10T05:42:14+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-JiX9F+TWW42Ph+ywQWTAg4elT+f8mkwT2+lSnlSP6qs=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Loc Huynh",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "lutris"
+      ],
+      "description": "Quickly launch and manage your Lutris games library directly from the shell bar.",
+      "distro": [
+        "any"
+      ],
+      "id": "lutrisLauncher",
+      "name": "Lutris Launcher",
+      "repo": "https://github.com/hthienloc/dms-lutris-launcher",
+      "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-lutris-launcher/master/screenshot.png",
+      "version": "1.0.0"
+    },
+    "path": "/nix/store/frzcc2a96p1k9zmjn03g2qsshb1d8ky5-dms-lutris-launcher",
+    "rev": "b156538eaa6bceb674ce1bd4eced32470b6b2d51",
+    "rootDir": "",
+    "sha256": "1azaixa9wlp9vc9lr6pwwx7sb1w3q1j43c7chy7qsnynwhbzs996",
+    "url": "https://github.com/hthienloc/dms-lutris-launcher"
   },
   "lyricsOnPanel": {
     "date": "2026-04-07T21:51:47-04:00",
@@ -4393,12 +4500,12 @@
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "qrGenerator": {
-    "date": "2026-05-10T04:01:13+07:00",
+    "date": "2026-05-10T04:53:10+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-2PZgorOoAdecuPRQAEnmsDYnOWAJHRL1v2VAjwwsdaE=",
+    "hash": "sha256-cZRGUfQE4Moy9WjH8IVKRgXifJ7LX5mtsq/BoFVVsm0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4421,12 +4528,12 @@
       "name": "QR Generator",
       "repo": "https://github.com/hthienloc/dms-qr-generator",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png",
-      "version": "1.0.6"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/cqlx5c0ma5n6g5s8fc9gc7mhki02pa8p-dms-qr-generator",
-    "rev": "a044d45e7b1a3319257c7eceee765908b0f2582b",
+    "path": "/nix/store/zv9xvahhwsnkzkznwx8nvwxqg3dhkksq-dms-qr-generator",
+    "rev": "ab5b0b62b502975c7977f0d290b4ad6d1700885e",
     "rootDir": "",
-    "sha256": "18bm5h68yh35pzsi4789c0wjfdmhwr4h0l7lp2fdf0d8nfi61xnq",
+    "sha256": "0vdjamas1hdgnanrjpybkryf41a69a2z1iv8ylrcmq04yi8ld53i",
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quranWidget": {
