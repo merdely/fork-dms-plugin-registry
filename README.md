@@ -3179,6 +3179,35 @@ Run a command on a custom interval and display its output in the bar. Supports m
 
 
 
+#### [Kaomoji Picker](https://github.com/hthienloc/dms-kaomoji-picker)
+
+Local kaomoji picker for DMS
+
+
+
+- id: kaomojiPicker
+- name: Kaomoji Picker
+- author: Loc Huynh
+- compositors: any
+- capabilities: launcher
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-kaomoji-picker/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Keybinding Cheat Sheet](https://github.com/stvnwrgs/dms-keybindings-cheat-sheet)
 
 A desktop widget that parses your compositor's keybinding config and displays them as a live cheat sheet
