@@ -853,12 +853,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -882,12 +882,12 @@
       "path": "ClipboardPlus",
       "repo": "https://github.com/Dadangdut33/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/ClipboardPlus/preview/preview-blur.png",
-      "version": "1.0.7"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "codexBar": {
@@ -3500,12 +3500,12 @@
     "url": "https://github.com/corcoran/dms-interval-command"
   },
   "ipIndicator": {
-    "date": "2026-05-07T18:13:35+07:00",
+    "date": "2026-05-11T04:10:49+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-u2vWlvYzkbNOW6Oyd410zuWiQfxHxXjeXhrh/BCitFo=",
+    "hash": "sha256-oaGLwcgmE3TI6LwtIvhj1EcltJoUcZ/TUqhnku2vRF0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -3529,10 +3529,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ipIndicator/master/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/4vwsw5z7wk2fxp2bg3131ks4m1lnkc7r-dms-ipIndicator",
-    "rev": "ea39a36f46f9083a694b94e02813d0be8f5884ef",
+    "path": "/nix/store/p45q8qsj1z926v0vdd29pl2pbcm0hlhi-dms-ipIndicator",
+    "rev": "ea82891983cbf8ab62790c678334fa2cccc763f0",
     "rootDir": "",
-    "sha256": "0nmll88grq8sbvg7iia7zi0s5rfffj6pgcm3bd7b749kysbdcsxv",
+    "sha256": "0pa4mznr4rx8ab9ryw8lkas2aiylcgw24bdwx34784r6r30qp8d1",
     "url": "https://github.com/hthienloc/dms-ipIndicator"
   },
   "kaomojiPicker": {
@@ -4085,12 +4085,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "netbirdStatus": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4115,10 +4115,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/NetbirdStatus/preview/widget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "nextBootSelector": {
@@ -4338,12 +4338,12 @@
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
   "ocrScanner": {
-    "date": "2026-05-10T17:52:11+07:00",
+    "date": "2026-05-10T22:14:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-YtYAVB8vh9MHl8poYBDopj9DGNOVCgRR3ECSs/4kaxY=",
+    "hash": "sha256-r9ffkSMDQJa7cGRX5WgnmM4W4Z/bvfVhHiJzaeKQ3Hk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4369,10 +4369,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ocr-scanner/main/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/z8q3hksjl0579w9vffjy6kagdzqqr2ng-dms-ocr-scanner",
-    "rev": "395e9da78ea542b9a4fb194dec667515c65d4417",
+    "path": "/nix/store/5c63chd897n295nf0p7bsfqkxvzsim6f-dms-ocr-scanner",
+    "rev": "915f00af6e6d4c67e2ffb9f0b6e39326c887681a",
     "rootDir": "",
-    "sha256": "05kb4kzb74j0vi8h82lmscc46gx6x0860s6ajw3x71rg3xa01mk2",
+    "sha256": "0yfwj3i6jwr23rhzbgfvkzhidklq4xlfamv4f2xrch034f8xzmxg",
     "url": "https://github.com/hthienloc/dms-ocr-scanner"
   },
   "pangolinWidget": {
@@ -5004,12 +5004,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "simpleAudioControl": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -5032,10 +5032,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SimpleAudioControl/preview/tab-1.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "sshConnections": {
