@@ -1261,7 +1261,7 @@ Manage display outputs (Single Display, Mirror, Extend).
 
 #### [IP Indicator](https://github.com/hthienloc/dms-ipIndicator)
 
-Shows public IP address, ISP and location. Right-click to toggle privacy mode.
+Display public IP address, ISP, and location with a privacy-focused toggle.
 
 
 
@@ -1506,7 +1506,7 @@ Alienware Command Center plugin for DankBar
 
 #### [Ambient Sound](https://github.com/hthienloc/dms-ambient-sound)
 
-Play ambient sounds for focus with sleep timer and volume control.
+Play ambient focus sounds with integrated sleep timer and volume control.
 
 
 
@@ -1651,7 +1651,7 @@ Quickly toggle between different audio output devices
 
 #### [Bongo Cat](https://github.com/hthienloc/dms-bongo-cat)
 
-A reactive Bongo Cat that taps along with your typing
+A reactive animated cat that taps along with your keyboard input.
 
 
 
@@ -1680,7 +1680,7 @@ A reactive Bongo Cat that taps along with your typing
 
 #### [Breathing Exercise](https://github.com/hthienloc/dms-breathing)
 
-Guided breathing exercises for relaxation and focus.
+A guided breathing exercise tool for mindfulness and relaxation.
 
 
 
@@ -2782,6 +2782,35 @@ Check for and install Flatpak Updates
 
 
 
+#### [Floaty](https://github.com/hthienloc/dms-floaty)
+
+A minimalist tool to float clipboard or local images on top of all windows.
+
+
+
+- id: floaty
+- name: Floaty
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: wl-clipboard, kdialog
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-floaty/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Format Color Picker](https://github.com/Incognitux/dms-format-color-picker)
 
 Choose color format before picking
@@ -3181,7 +3210,7 @@ Run a command on a custom interval and display its output in the bar. Supports m
 
 #### [Kaomoji Picker](https://github.com/hthienloc/dms-kaomoji-picker)
 
-Local kaomoji picker for DMS
+A lightweight launcher for browsing and copying kaomojis to the clipboard.
 
 
 
@@ -3190,7 +3219,7 @@ Local kaomoji picker for DMS
 - author: Loc Huynh
 - compositors: any
 - capabilities: launcher
-- dependencies: 
+- dependencies: wl-clipboard
 - distro: any
 
 
@@ -3297,7 +3326,7 @@ Displays LiveChart anime schedule data pulled from a local browser session.
 
 #### [Lutris Launcher](https://github.com/hthienloc/dms-lutris-launcher)
 
-Quickly launch and manage your Lutris games library directly from the shell bar.
+Quickly browse and launch games from your Lutris library.
 
 
 
@@ -3597,7 +3626,7 @@ List and switch to open Niri windows from the launcher
 
 #### [OCR Scanner](https://github.com/hthienloc/dms-ocr-scanner)
 
-Extract text from images in clipboard or files using Tesseract OCR.
+Extract text from clipboard images or local files using Tesseract OCR.
 
 
 
@@ -3834,7 +3863,7 @@ Monitor and control your Pulsar X3 gaming mouse
 
 #### [QR Generator](https://github.com/hthienloc/dms-qr-generator)
 
-Dedicated QR code generator.
+Generate QR codes from clipboard text or manual input.
 
 
 
@@ -3853,7 +3882,7 @@ Dedicated QR code generator.
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://raw.githubusercontent.com/hthienloc/dms-qrGenerator/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-qr-generator/master/screenshot.png)
 
 </details>
 
@@ -4323,7 +4352,7 @@ Search and browse stickers powered by Klipy
 
 #### [Stopwatch](https://github.com/hthienloc/dms-stopwatch)
 
-High-precision stopwatch.
+A high-precision stopwatch for time tracking.
 
 
 
@@ -4468,7 +4497,7 @@ Display a customizable countdown timer in the Dankbar. Perfect for tracking impo
 
 #### [Timer](https://github.com/hthienloc/dms-timer)
 
-Feature-rich countdown timer.
+A countdown timer with notification support and audio alerts.
 
 
 
