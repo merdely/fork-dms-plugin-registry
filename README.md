@@ -3503,6 +3503,40 @@ Display the current Hungarian nameday on the DankBar. Shows today's name on the 
 
 
 
+#### [Media Control Plus](https://github.com/Dadangdut33/dms-plugins)
+
+Customized version of DMS media widget with extended features that is mainly focused on improving vertical bar support
+
+
+
+- id: mediaControlPlus
+- name: Media Control Plus
+- author: Dadangdut33
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [MediaControlPlus](https://github.com/Dadangdut33/dms-plugins/tree/main/MediaControlPlus) folder to your `~/.config/DankMaterialShell/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/MediaControlPlus/preview/vertical.png)
+
+</details>
+
+
+
+
+
 #### [Media Controls Plus](https://github.com/lpv11/dms-media-controls-plus)
 
 Media controls with full bar volume scroll. Disables workspace scroll.
