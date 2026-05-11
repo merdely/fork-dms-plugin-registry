@@ -903,6 +903,35 @@ Display real-time power consumption from your device
 
 
 
+#### [Process List](https://github.com/Mithgroth/dms-process-list)
+
+Desktop overlay widget for live process monitoring with grouping, sorting, and scope filters
+
+<strong>requires DMS version</strong>: <em>>=0.1.18</em>
+
+- id: processList
+- name: Process List
+- author: mith
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: dgop
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Mithgroth/dms-process-list/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [SSH Monitor](https://github.com/boutabong/dms-plugins)
 
 Monitor active SSH, SFTP, FTP, and Yazi VFS connections with hostname resolution
