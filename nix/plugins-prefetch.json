@@ -3978,6 +3978,41 @@
     "sha256": "0fn71j3i7gdkpifdcw52li1a3851g9gmc771gb94l6yrxlavil4n",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
+  "mediaControlPlus": {
+    "date": "2026-05-11T11:00:48+07:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-bc2HaVRaasfGRMcn9Pk93F6jpypBHi7nLnPo7U/GpUw=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Dadangdut33",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "utilities",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [],
+      "description": "Customized version of DMS media widget with extended features that is mainly focused on improving vertical bar support",
+      "distro": [
+        "any"
+      ],
+      "id": "mediaControlPlus",
+      "name": "Media Control Plus",
+      "path": "MediaControlPlus",
+      "repo": "https://github.com/Dadangdut33/dms-plugins",
+      "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/MediaControlPlus/preview/vertical.png",
+      "version": "1.0.3"
+    },
+    "path": "/nix/store/55nxj2062m05bbdr94xwagfy8y4cc3ia-dms-plugins",
+    "rev": "3fb5c3540bb7d86bb2b3f1be9ccc23d1635a0208",
+    "rootDir": "",
+    "sha256": "0k55qr7yvs3k5vkjw7j15aks6pnw7pwz89y78k3cfsjsailqgkbd",
+    "url": "https://github.com/Dadangdut33/dms-plugins"
+  },
   "mediaControlsPlus": {
     "date": "2026-03-23T20:00:25+02:00",
     "deepClone": false,
