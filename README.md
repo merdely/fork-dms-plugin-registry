@@ -1040,6 +1040,35 @@ A simple locally-saved TODO list widget for the Dank bar.
 
 
 
+#### [Jira Tickets](https://github.com/Klievan/dms-jira)
+
+Assigned Jira Cloud tickets in the DankBar with quick actions — open, transition status, comment, copy branch name — plus optional new-assignment and @mention notifications.
+
+
+
+- id: dmsJira
+- name: Jira Tickets
+- author: Klievan
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: wl-clipboard, libnotify
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Klievan/dms-jira/8c66f630892c12665643bf4538d0b265adb1a056/assets/screenshot.png)
+
+</details>
+
+
+
+
+
 ---
 
 
