@@ -2521,6 +2521,43 @@
     "sha256": "0minqry2lxy6n9lc0000xhik3k9yq9kfmlsljxpkqwjqriqh1g1g",
     "url": "https://github.com/nfoert/dms-desktop-countdown"
   },
+  "dmsJira": {
+    "date": "2026-05-11T15:11:57+02:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-/9OUA6aFOsKA6n3y+d2MKkg5XJ7sbclGSxYKch2IdCk=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "Klievan",
+      "capabilities": [
+        "dankbar-widget"
+      ],
+      "category": "productivity",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "wl-clipboard",
+        "libnotify"
+      ],
+      "description": "Assigned Jira Cloud tickets in the DankBar with quick actions \u2014 open, transition status, comment, copy branch name \u2014 plus optional new-assignment and @mention notifications.",
+      "distro": [
+        "any"
+      ],
+      "id": "dmsJira",
+      "name": "Jira Tickets",
+      "repo": "https://github.com/Klievan/dms-jira",
+      "screenshot": "https://raw.githubusercontent.com/Klievan/dms-jira/8c66f630892c12665643bf4538d0b265adb1a056/assets/screenshot.png",
+      "version": "0.2.0"
+    },
+    "path": "/nix/store/lzv8m08ady5k9dn5bhdf6h43kcwl8pb3-dms-jira",
+    "rev": "1f4f10a7ed35e9ebbf8eb57d69871cb57faab8d2",
+    "rootDir": "",
+    "sha256": "0abli0fp42hn9d3cjvgckrf3jj1aikfzkwkxxa0c4fl5lq1r9lzz",
+    "url": "https://github.com/Klievan/dms-jira"
+  },
   "dmsLenovoBatterySettings": {
     "date": "2026-01-20T12:32:28+01:00",
     "deepClone": false,
