@@ -2382,6 +2382,38 @@
     "sha256": "1zlngx6vphpib7mnmnbcxm9wyl6xvhfgycixmaiap7jld70a734w",
     "url": "https://github.com/xyzsteven/dms-displayoutput"
   },
+  "displayProfile": {
+    "date": "2026-03-25T21:25:11-06:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-ky5yfkjWxz+jJKtyZ/e1hzrPsYzJ1ZWQXkcOPomqL9M=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "EienWolf",
+      "capabilities": [],
+      "category": "utilities",
+      "compositors": [
+        "hyprland"
+      ],
+      "dependencies": [],
+      "description": "Switch between saved Hyprland display profiles from a keyboard-driven modal.",
+      "distro": [
+        "any"
+      ],
+      "id": "displayProfile",
+      "name": "Display Profile",
+      "repo": "https://github.com/EienWolf/dms-displayprofile",
+      "screenshot": "https://raw.githubusercontent.com/EienWolf/dms-displayprofile/refs/heads/master/screenshot.png",
+      "version": "0.1.1"
+    },
+    "path": "/nix/store/zx8snci0kma61i6drfxx387xng3mayns-dms-displayprofile",
+    "rev": "5c67fabd2cd50b3116d7a15648dd053ef002ccb9",
+    "rootDir": "",
+    "sha256": "1lrgma4kw3j7bs89bmf9ijqwyfl7npvnfwmb4jikziyn91z74blk",
+    "url": "https://github.com/EienWolf/dms-displayprofile"
+  },
   "displaySettings": {
     "date": "2026-02-03T21:48:05+02:00",
     "deepClone": false,
