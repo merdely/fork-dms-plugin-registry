@@ -4628,6 +4628,43 @@
     "sha256": "0j42h9p3yz9cvcm6j0zcpkggdcvxjg3gsgk1hvp0xazivyw3bw05",
     "url": "https://github.com/muadzmo/prayertimes"
   },
+  "processList": {
+    "date": "2026-03-31T14:08:31+03:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "fetchTags": false,
+    "hash": "sha256-PQdERKd58SlKIbe9fGPFKuQvueEmlHecK00UXuesXVE=",
+    "leaveDotGit": false,
+    "meta": {
+      "author": "mith",
+      "capabilities": [
+        "desktop-widget"
+      ],
+      "category": "monitoring",
+      "compositors": [
+        "any"
+      ],
+      "dependencies": [
+        "dgop"
+      ],
+      "description": "Desktop overlay widget for live process monitoring with grouping, sorting, and scope filters",
+      "distro": [
+        "any"
+      ],
+      "id": "processList",
+      "name": "Process List",
+      "repo": "https://github.com/Mithgroth/dms-process-list",
+      "requires_dms": ">=0.1.18",
+      "screenshot": "https://raw.githubusercontent.com/Mithgroth/dms-process-list/main/screenshot.png",
+      "version": "1.0.1"
+    },
+    "path": "/nix/store/dvc8rdg40rxvf6p4rffi1cz3ilba4p9d-dms-process-list",
+    "rev": "83711c4022b50674d1076f218d8a54a1e82873e6",
+    "rootDir": "",
+    "sha256": "0laxmkkmw52d5ff7g516w6wjzr1aqmiprgdp4552kwbrlx2481rx",
+    "url": "https://github.com/Mithgroth/dms-process-list"
+  },
   "pulsarX3": {
     "date": "2025-12-05T13:38:05+01:00",
     "deepClone": false,
