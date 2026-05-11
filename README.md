@@ -2569,6 +2569,35 @@ Mirror niri displays using wl-mirror from the control center and bar
 
 
 
+#### [Display Profile](https://github.com/EienWolf/dms-displayprofile)
+
+Switch between saved Hyprland display profiles from a keyboard-driven modal.
+
+
+
+- id: displayProfile
+- name: Display Profile
+- author: EienWolf
+- compositors: hyprland
+- capabilities: 
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/EienWolf/dms-displayprofile/refs/heads/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Display Settings](https://github.com/lucyfire/dms-plugins)
 
 Turn on/off displays for Hyprland
