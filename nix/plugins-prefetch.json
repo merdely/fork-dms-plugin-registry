@@ -632,12 +632,12 @@
     "url": "https://github.com/hthienloc/dms-breathing"
   },
   "calculator": {
-    "date": "2026-05-03T22:10:59+01:00",
+    "date": "2026-05-11T16:00:24+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Ymf3Pxx+Y1SucuWniBjl61wDQjtGfaxi8zW0HA5mvpw=",
+    "hash": "sha256-hiqrO8WkzmWGVlUrzxmffUZBs4t1QM2mMTBUxZqCIyU=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -659,12 +659,12 @@
       "repo": "https://github.com/rochacbruno/DankCalculator",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://github.com/rochacbruno/DankCalculator/raw/main/screenshot.png",
-      "version": "0.3.2"
+      "version": "0.3.3"
     },
-    "path": "/nix/store/z35g0740yazmhmsp7ifk2a4gzz4qbmyc-DankCalculator",
-    "rev": "998e52958ae7c319363537584804eb35a9c7859f",
+    "path": "/nix/store/xsjsav6glsyzh8hc6bhxs52kb42k9nsg-DankCalculator",
+    "rev": "73073d051d08254633f28f89d2609344c8289813",
     "rootDir": "",
-    "sha256": "175ycq71rd1mydiaqza67d106p7bwlc8i9z5fap58qvy3hzzfrv2",
+    "sha256": "0993hadcam1h66kcsh3mifrl2ikxkwcwyasmas36bkm4qlxsnal6",
     "url": "https://github.com/rochacbruno/DankCalculator"
   },
   "canvasGrades": {
@@ -853,12 +853,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
-    "date": "2026-05-11T11:00:48+07:00",
+    "date": "2026-05-12T01:11:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bc2HaVRaasfGRMcn9Pk93F6jpypBHi7nLnPo7U/GpUw=",
+    "hash": "sha256-zNRPqz7B2hnOc2wmHawO9y6R5TPccxnis9/A5BPObk4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -884,10 +884,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/ClipboardPlus/preview/preview-blur.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/55nxj2062m05bbdr94xwagfy8y4cc3ia-dms-plugins",
-    "rev": "3fb5c3540bb7d86bb2b3f1be9ccc23d1635a0208",
+    "path": "/nix/store/qzz1j3gi5ccishhr7x28ypaarr2nmmi2-dms-plugins",
+    "rev": "f16daaffdd2fc2d862206d8e8d318be8d29d2bda",
     "rootDir": "",
-    "sha256": "0k55qr7yvs3k5vkjw7j15aks6pnw7pwz89y78k3cfsjsailqgkbd",
+    "sha256": "0kkfrq9y9h6zngi1jwyw6gjr2bpp1sn1s9kcfg71knn17smlzm6c",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "codexBar": {
@@ -3019,12 +3019,12 @@
     "url": "https://github.com/merdely/dms-plugins"
   },
   "floaty": {
-    "date": "2026-05-11T19:29:56+07:00",
+    "date": "2026-05-12T00:40:03+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-tdUDh0tCvxO/cvj0elm2JYXvIGKB52744VayNukuiAc=",
+    "hash": "sha256-bJSfi/V2tLzIOJqbWbwCI3b5xVt77L/xM/xNe3q1apY=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -3049,10 +3049,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-floaty/main/screenshot.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/8qpxjk2f2jv50fwi4hfqgwgs1z06kanm-dms-floaty",
-    "rev": "613b7598c183f4d01e95f6ee7fcd47b0f731dca0",
+    "path": "/nix/store/5cbdis5k82bjx5rz0fqxm0jb2k55y784-dms-floaty",
+    "rev": "7c23c452005966e6dce02059938742a1acbeb898",
     "rootDir": "",
-    "sha256": "01w85vlkdcjnw7w6xrw1c8hfz195nrcpmx7qfazi7gs29f3h7mdm",
+    "sha256": "15kanmx7nkgw6gqvzv3vbg2zjxi30ay5k6ws734brd3nyn5rz53c",
     "url": "https://github.com/hthienloc/dms-floaty"
   },
   "formatColorPicker": {
@@ -3979,12 +3979,12 @@
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "mediaControlPlus": {
-    "date": "2026-05-11T11:00:48+07:00",
+    "date": "2026-05-12T01:11:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bc2HaVRaasfGRMcn9Pk93F6jpypBHi7nLnPo7U/GpUw=",
+    "hash": "sha256-zNRPqz7B2hnOc2wmHawO9y6R5TPccxnis9/A5BPObk4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4005,12 +4005,12 @@
       "path": "MediaControlPlus",
       "repo": "https://github.com/Dadangdut33/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/MediaControlPlus/preview/vertical.png",
-      "version": "1.0.3"
+      "version": "1.0.4"
     },
-    "path": "/nix/store/55nxj2062m05bbdr94xwagfy8y4cc3ia-dms-plugins",
-    "rev": "3fb5c3540bb7d86bb2b3f1be9ccc23d1635a0208",
+    "path": "/nix/store/qzz1j3gi5ccishhr7x28ypaarr2nmmi2-dms-plugins",
+    "rev": "f16daaffdd2fc2d862206d8e8d318be8d29d2bda",
     "rootDir": "",
-    "sha256": "0k55qr7yvs3k5vkjw7j15aks6pnw7pwz89y78k3cfsjsailqgkbd",
+    "sha256": "0kkfrq9y9h6zngi1jwyw6gjr2bpp1sn1s9kcfg71knn17smlzm6c",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "mediaControlsPlus": {
@@ -4228,12 +4228,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "netbirdStatus": {
-    "date": "2026-05-11T11:00:48+07:00",
+    "date": "2026-05-12T01:11:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bc2HaVRaasfGRMcn9Pk93F6jpypBHi7nLnPo7U/GpUw=",
+    "hash": "sha256-zNRPqz7B2hnOc2wmHawO9y6R5TPccxnis9/A5BPObk4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4258,10 +4258,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/NetbirdStatus/preview/widget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/55nxj2062m05bbdr94xwagfy8y4cc3ia-dms-plugins",
-    "rev": "3fb5c3540bb7d86bb2b3f1be9ccc23d1635a0208",
+    "path": "/nix/store/qzz1j3gi5ccishhr7x28ypaarr2nmmi2-dms-plugins",
+    "rev": "f16daaffdd2fc2d862206d8e8d318be8d29d2bda",
     "rootDir": "",
-    "sha256": "0k55qr7yvs3k5vkjw7j15aks6pnw7pwz89y78k3cfsjsailqgkbd",
+    "sha256": "0kkfrq9y9h6zngi1jwyw6gjr2bpp1sn1s9kcfg71knn17smlzm6c",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "nextBootSelector": {
@@ -5184,12 +5184,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "simpleAudioControl": {
-    "date": "2026-05-11T11:00:48+07:00",
+    "date": "2026-05-12T01:11:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bc2HaVRaasfGRMcn9Pk93F6jpypBHi7nLnPo7U/GpUw=",
+    "hash": "sha256-zNRPqz7B2hnOc2wmHawO9y6R5TPccxnis9/A5BPObk4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -5212,10 +5212,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SimpleAudioControl/preview/tab-1.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/55nxj2062m05bbdr94xwagfy8y4cc3ia-dms-plugins",
-    "rev": "3fb5c3540bb7d86bb2b3f1be9ccc23d1635a0208",
+    "path": "/nix/store/qzz1j3gi5ccishhr7x28ypaarr2nmmi2-dms-plugins",
+    "rev": "f16daaffdd2fc2d862206d8e8d318be8d29d2bda",
     "rootDir": "",
-    "sha256": "0k55qr7yvs3k5vkjw7j15aks6pnw7pwz89y78k3cfsjsailqgkbd",
+    "sha256": "0kkfrq9y9h6zngi1jwyw6gjr2bpp1sn1s9kcfg71knn17smlzm6c",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "sshConnections": {
@@ -5911,12 +5911,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaperWidget"
   },
   "wallpaperCarousel": {
-    "date": "2026-05-03T16:14:20+02:00",
+    "date": "2026-05-11T15:51:38+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-amlLxnA7N2t41qMN5G5z6fI2DvuhQatwXmB8aT9k48A=",
+    "hash": "sha256-j0YnjGddXKozLWk9jUkvO+f7wUkRFXcIT5FfurrJsTo=",
     "leaveDotGit": false,
     "meta": {
       "author": "yngwe",
@@ -5938,12 +5938,12 @@
       "repo": "https://github.com/motor-dev/wallpaperCarousel",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/motor-dev/wallpaperCarousel/refs/heads/main/screenshot.png",
-      "version": "0.8.0"
+      "version": "0.8.1"
     },
-    "path": "/nix/store/mcsnl8hhv1bwin5hgcilbakyxh4f1q2g-wallpaperCarousel",
-    "rev": "941faef435836957a3a78a5e47648b38484060f2",
+    "path": "/nix/store/w4v8x2kkbnpp1ili2v6fagvn0f9qlc1k-wallpaperCarousel",
+    "rev": "af957c26e3bd9cc7f64c6973fb1c378c5d11891e",
     "rootDir": "",
-    "sha256": "1h73chznjz30brqanhd1zc73dwp9fdpf83d3srw6ndrvf334nsba",
+    "sha256": "0fmir6xblpwi9w47f58i970zprrv5x4qsgb95lrslp2xcy62filg",
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
