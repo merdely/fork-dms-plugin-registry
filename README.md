@@ -903,6 +903,35 @@ Display real-time power consumption from your device
 
 
 
+#### [Process List](https://github.com/Mithgroth/dms-process-list)
+
+Desktop overlay widget for live process monitoring with grouping, sorting, and scope filters
+
+<strong>requires DMS version</strong>: <em>>=0.1.18</em>
+
+- id: processList
+- name: Process List
+- author: mith
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: dgop
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Mithgroth/dms-process-list/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [SSH Monitor](https://github.com/boutabong/dms-plugins)
 
 Monitor active SSH, SFTP, FTP, and Yazi VFS connections with hostname resolution
@@ -1004,6 +1033,35 @@ A simple locally-saved TODO list widget for the Dank bar.
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/deepu105/dms-dank-todo/main/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [Jira Tickets](https://github.com/Klievan/dms-jira)
+
+Assigned Jira Cloud tickets in the DankBar with quick actions — open, transition status, comment, copy branch name — plus optional new-assignment and @mention notifications.
+
+
+
+- id: dmsJira
+- name: Jira Tickets
+- author: Klievan
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: wl-clipboard, libnotify
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Klievan/dms-jira/8c66f630892c12665643bf4538d0b265adb1a056/assets/screenshot.png)
 
 </details>
 
@@ -2540,6 +2598,35 @@ Mirror niri displays using wl-mirror from the control center and bar
 
 
 
+#### [Display Profile](https://github.com/EienWolf/dms-displayprofile)
+
+Switch between saved Hyprland display profiles from a keyboard-driven modal.
+
+
+
+- id: displayProfile
+- name: Display Profile
+- author: EienWolf
+- compositors: hyprland
+- capabilities: 
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/EienWolf/dms-displayprofile/refs/heads/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Display Settings](https://github.com/lucyfire/dms-plugins)
 
 Turn on/off displays for Hyprland
@@ -3409,6 +3496,40 @@ Display the current Hungarian nameday on the DankBar. Shows today's name on the 
 <summary>Screenshot</summary>
 
 ![screenshot](https://github.com/szabolcsf/dms-nameday/raw/main/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [Media Control Plus](https://github.com/Dadangdut33/dms-plugins)
+
+Customized version of DMS media widget with extended features that is mainly focused on improving vertical bar support
+
+
+
+- id: mediaControlPlus
+- name: Media Control Plus
+- author: Dadangdut33
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+> [!NOTE]
+> This plugin is part of a monorepo, please copy the contents of the [MediaControlPlus](https://github.com/Dadangdut33/dms-plugins/tree/main/MediaControlPlus) folder to your `~/.config/DankMaterialShell/plugins/` folder.
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/MediaControlPlus/preview/vertical.png)
 
 </details>
 
