@@ -1499,6 +1499,35 @@ Integrated AI chat assistant with markdown support, multiple AI provider support
 
 
 
+#### [Activate Linux Watermark](https://github.com/hthienloc/dms-activate-linux)
+
+Adds a watermark to the bottom-right of the screen
+
+
+
+- id: activateLinux
+- name: Activate Linux Watermark
+- author: Loc Huynh
+- compositors: any
+- capabilities: desktop-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-activate-linux/master/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Alarm Clock](https://github.com/lucyfire/dms-plugins)
 
 An alarm clock widget
@@ -2905,7 +2934,7 @@ Check for and install Flatpak Updates
 
 #### [Floaty](https://github.com/hthienloc/dms-floaty)
 
-A minimalist tool to float clipboard or local images on top of all windows.
+A feature-rich reference image tool to float images, screenshots, and vector graphics on top of all windows.
 
 
 
@@ -3172,6 +3201,35 @@ Quick screenshot menu for grimblast with multiple capture modes
 <summary>Screenshot</summary>
 
 ![screenshot](https://raw.githubusercontent.com/TaylanTatli/dms-plugins/refs/heads/master/grimblast/screenshot.png)
+
+</details>
+
+
+
+
+
+#### [Hidden Bar](https://github.com/hthienloc/dms-hidden-bar)
+
+Hide/Show bar widgets with a click or hover
+
+
+
+- id: hiddenBar
+- name: Hidden Bar
+- author: Loc Huynh
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: 
+- distro: any
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/hthienloc/dms-hidden-bar/master/screenshot.png)
 
 </details>
 
